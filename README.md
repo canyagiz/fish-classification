@@ -17,6 +17,7 @@ This project involves classifying fish species using an Artificial Neural Networ
 10. [Predictions](#predictions)
 11. [Classification Report](#classification-report)
 12. [Confusion Matrix](#confusion-matrix)
+13. [Kaggle Link](#kaggle-link)
 
 ## Libraries and Tools
 - **Image Processing**: `opencv-python (cv2)`
@@ -82,3 +83,5 @@ The model achieved **98% accuracy**, with high precision, recall, and F1-scores 
 
 ## Confusion Matrix
 A confusion matrix is generated to visualize misclassifications. It highlights where the model confuses certain classes.
+## Kaggle Lİnk
+https://www.kaggle.com/code/aliyazcanigrolu/final-aiglobalhub-fish-classficiation/notebook
