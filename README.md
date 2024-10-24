@@ -83,5 +83,6 @@ The model achieved **98% accuracy**, with high precision, recall, and F1-scores 
 
 ## Confusion Matrix
 A confusion matrix is generated to visualize misclassifications. It highlights where the model confuses certain classes.
-## Kaggle Lİnk
+
+## Kaggle Link
 https://www.kaggle.com/code/aliyazcanigrolu/final-aiglobalhub-fish-classficiation/notebook
